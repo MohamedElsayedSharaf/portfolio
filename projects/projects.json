@@ -1,0 +1,92 @@
+[
+  {
+    "name": " ",
+    "desc": "Cata shop is a clothing shop built using HTML, CSS And JavaScript.",
+    "image": "cata",
+    "links": {
+      "view": "https://64ab291c6a675c64fdc55b65--relaxed-macaron-632f04.netlify.app/",
+      "code": "https://github.com/MohamedElsayedSharaf/Ecommerce-html"
+    }
+  },
+  {
+    "name": "Ecommerce Website",
+    "desc": "Ecommerce website designed with react framework.",
+    "image": "ecommerce",
+    "links": {
+      "view": "https://64aaf6aacb99384f7bf746d2--dazzling-baklava-2289f7.netlify.app/",
+      "code": "https://github.com/MohamedElsayedSharaf/Ecommerce-react-advanced"
+    }
+  },
+  {
+    "name": "Car-Showcase",
+    "desc": "A Modern Next.js 13 Application | React, Next JS 13, TypeScript, Tailwind CSS.",
+    "image": "car",
+    "links": {
+      "view": "https://car-showcase-next-ashy.vercel.app/",
+      "code": "https://github.com/MohamedElsayedSharaf/car-showcase-next"
+    }
+  },
+  {
+    "name": "GYM App",
+    "desc": "A Gym app with a awesome animation, build with react-framework.",
+    "image": "gym",
+    "links": {
+      "view": "https://64ab25167ed34f676b2eaedd--resplendent-pika-eac77b.netlify.app/",
+      "code": "https://github.com/MohamedElsayedSharaf/Gym"
+    }
+  },
+  {
+    "name": "Crud App",
+    "desc": "CRUD refers to the four basic operations a software application should be able to perform – Create, Read, Update, and Delete.",
+    "image": "crud",
+    "links": {
+      "view": "https://64ab2e1a2211466e64251163--regal-gelato-280dd3.netlify.app/",
+      "code": "https://github.com/MohamedElsayedSharaf/crud-app"
+    }
+  },
+  {
+    "name": "Memory Game",
+    "desc": "A simple game designed with javscript algorithms",
+    "image": "memory",
+    "links": {
+      "view": "https://64c70e1e71ccc6569d699589--dynamic-marigold-58a670.netlify.app/",
+      "code": "https://github.com/MohamedElsayedSharaf/memory-game/tree/main/memory%20game"
+    }
+  },
+  {
+    "name": "Weather App",
+    "desc": "Weather app build with javascript and weather api",
+    "image": "weather",
+    "links": {
+      "view": "https://64c6ff3ba105035270091ade--graceful-dieffenbachia-fcb7c1.netlify.app/",
+      "code": "https://github.com/MohamedElsayedSharaf/weather-app"
+    }
+  },
+  {
+    "name": "Movie App",
+    "desc": "Responsive React Movies App With API",
+    "image": "movie",
+    "links": {
+      "view": "https://app-streamit.netlify.app/",
+      "code": "https://github.com/MohamedElsayedSharaf/movie_app"
+    }
+  },
+  {
+    "name": "Real Estate App",
+    "desc": "Modern Real Estate App, build with react framework",
+    "image": "realestate",
+    "links": {
+      "view": "https://real-state-website-woad.vercel.app/",
+      "code": "https://github.com/MohamedElsayedSharaf/real_estate_website"
+    }
+  },
+  {
+    "name": "Shopping Cart",
+    "desc": "It typically features a user-friendly interface, product listings, shopping cart functionality",
+    "image": "cart",
+    "links": {
+      "view": "https://shoppping-cart-theta.vercel.app/",
+      "code": "https://github.com/MohamedElsayedSharaf/shoppping_cart"
+    }
+  }
+]
